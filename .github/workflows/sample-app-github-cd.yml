@@ -63,5 +63,5 @@ jobs:
         uses: azure/webapps-deploy@v2
         id: deploy-to-webapp
         with:
-          app-name: 'sample-app-github-cd'
+          app-name: 'TH1TEST-WEBAPP'
           slot-name: 'Production'
